@@ -2,6 +2,17 @@
 
 This project optimizes patrol sector boundaries for the Berkeley Police Department by balancing workload (NPPS) across sectors and snapping boundaries to street centerlines.
 
+## Data Availability
+
+**Note:** The data files required for this project (e.g., `2024.csv`, `Balanced_Beats_V2.shp`, `Centerlines.shp`, etc.) are **not included in this GitHub repository** due to file size and copyright considerations.
+
+If you need access to the data, please download it from the following link:
+
+- [Download data from Google Drive](https://drive.google.com/drive/folders/1K7m15MCzmZeWsxBR7TwEvf65l-apLIXd?usp=drive_link)
+
+After downloading, place the data files in the project directory as described above.
+
+
 ## Overview
 
 The workflow:
