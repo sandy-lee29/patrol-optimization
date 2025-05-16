@@ -1,4 +1,4 @@
-# Berkeley Police Department Sector Optimization 👉 [Streamlit Dashboard](https://app-patrol-optimization-dashboard.streamlit.app/) 
+# Berkeley Police Department Sector Optimization  
 
 This project optimizes patrol sector boundaries for the Berkeley Police Department by balancing workload (NPPS) across sectors and snapping boundaries to street centerlines.  
  
